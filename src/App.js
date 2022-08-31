@@ -8,7 +8,18 @@ var emojiDictionary = {
   "🤤": "drooling",
   "😳": "flushed",
   "😕": "confused",
-  "🥵": "hot"
+  "🥵": "hot",
+  "🤪": "zany face",
+  "🤫": "shushing face",
+  "😪": "sleepy",
+  "🙄": "rolling eyes",
+  "🤮": "vomiting",
+  "🥶": "cold face",
+  "🤥": "Lying",
+  "🤐": "zipper-mouth face",
+  "🤓": "nerd face",
+  "🥴": "woozy face",
+  "😠": "angry face"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
